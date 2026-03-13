@@ -1,0 +1,33 @@
+MACHINE LEARNING INTERVIEW QUESTIONS
+
+Question: What is Machine Learning?
+Machine learning is a branch of artificial intelligence that allows systems to learn patterns from data and make predictions without being explicitly programmed.
+
+Question: What is Overfitting?
+Overfitting occurs when a machine learning model learns the training data too well, including noise, and performs poorly on new unseen data.
+
+Question: What is Underfitting?
+Underfitting occurs when a model is too simple to capture the underlying patterns in the data.
+
+Question: What is Bias vs Variance?
+Bias refers to errors due to overly simple assumptions in the model.
+Variance refers to errors caused by the model being too sensitive to fluctuations in training data.
+
+Question: What is Gradient Descent?
+Gradient descent is an optimization algorithm used to minimize the loss function by updating model parameters in the direction of the negative gradient.
+
+Question: What is Regularization?
+Regularization techniques like L1 and L2 are used to prevent overfitting by penalizing large weights in the model.
+
+Question: What is Cross Validation?
+Cross validation is a technique used to evaluate the performance of a machine learning model by splitting data into multiple training and validation sets.
+
+Question: What is Feature Engineering?
+Feature engineering is the process of selecting, transforming, or creating input features to improve model performance.
+
+Question: What is Precision and Recall?
+Precision measures how many predicted positives are actually correct.
+Recall measures how many actual positives were correctly predicted.
+
+Question: What is a Confusion Matrix?
+A confusion matrix is a table used to evaluate classification models by showing true positives, false positives, true negatives, and false negatives.

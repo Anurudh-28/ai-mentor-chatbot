@@ -1,0 +1,59 @@
+AI PROJECT IDEAS FOR STUDENTS
+
+Project 1: AI Chatbot
+Build a chatbot using natural language processing that can answer user questions.
+
+Skills learned:
+- NLP
+- Prompt engineering
+- API integration
+- LLM usage
+
+Project 2: Image Classification System
+Build a deep learning model that can classify images into categories.
+
+Example datasets:
+- CIFAR-10
+- MNIST
+- ImageNet
+
+Skills learned:
+- CNNs
+- Deep learning
+- TensorFlow or PyTorch
+
+Project 3: Movie Recommendation System
+Build a system that recommends movies based on user preferences.
+
+Techniques:
+- Collaborative filtering
+- Content-based filtering
+
+Skills learned:
+- Recommendation algorithms
+- Data processing
+
+Project 4: Fake News Detection
+Build a machine learning model that detects fake news articles.
+
+Skills learned:
+- NLP
+- Text classification
+- Data cleaning
+
+Project 5: Resume Screening AI
+Build a model that analyzes resumes and matches them with job descriptions.
+
+Skills learned:
+- NLP
+- Information extraction
+- AI for HR applications
+
+Project 6: AI Career Mentor Chatbot
+Build a chatbot that guides students in learning AI and preparing for AI jobs.
+
+Features:
+- Learning roadmap
+- Interview preparation
+- Resume advice
+- Project recommendations

@@ -1,0 +1,10 @@
+streamlit>=1.32
+openai>=1.40
+groq>=0.9
+google-generativeai>=0.7
+sentence-transformers>=3.0
+numpy>=1.26
+pypdf>=4.2
+duckduckgo-search>=6.3
+requests>=2.31
+
