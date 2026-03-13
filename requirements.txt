@@ -7,4 +7,5 @@ numpy>=1.26
 pypdf>=4.2
 duckduckgo-search>=6.3
 requests>=2.31
+python-dotenv
 
